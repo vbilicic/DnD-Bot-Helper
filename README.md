@@ -72,19 +72,11 @@ You’ll be prompted to enter questions like:
 - Edit `.env.example` with appropriate values and rename to `.env` if needed.
 - CUDA is assumed for performance. Make sure your system is GPU-ready.
 
-## Project Structure
-
-├── Data/
-│   └── D&D 5e - Players Handbook.pdf
-├── main.py
-├── requirements.txt
-├── environment.yml
-└── README.md
 
 ## Credits
-LlamaIndex
-llama-cpp-python
-TheBloke on HuggingFace
-Sentence Transformers
-Wizards of the Coast
-D&D Beyond
+- LlamaIndex
+- llama-cpp-python
+- TheBloke on HuggingFace
+- Sentence Transformers
+- Wizards of the Coast
+- D&D Beyond
