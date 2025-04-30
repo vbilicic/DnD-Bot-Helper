@@ -1,4 +1,4 @@
-#D&D 5e Handbook LLM Assistant
+# D&D 5e Handbook LLM Assistant
 
 This project is a local language model-powered assistant that can answer questions about the Dungeons & Dragons 5e Player's Handbook, running entirely on your machine using LlamaIndex, llama-cpp-python, and local embeddings from HuggingFace.
 
