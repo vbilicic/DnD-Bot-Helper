@@ -1,0 +1,25 @@
+name: dnd-Bot_Helper
+channels:
+  - defaults
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip:
+      - pypdf
+      - python-dotenv
+      - transformers
+      - llama-cpp-python
+      - llama-index.core
+      - llama-index-readers-file
+      - llama-index-embeddings-huggingface
+      - llama-index-llms-llama-cpp
+      - llama-index-embeddings-langchain
+      - sentence-transformers
+      - langchain-community
+      - huggingface_hub[hf_xet]
