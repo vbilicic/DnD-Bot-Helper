@@ -1,4 +1,4 @@
-# D&D 5e Handbook LLM Assistant
+# D&D 5e Handbook Bot Helper
 
 This project is a local language model-powered assistant that can answer questions about the Dungeons & Dragons 5e Player's Handbook, running entirely on your machine using LlamaIndex, llama-cpp-python, and local embeddings from HuggingFace.
 
@@ -29,7 +29,7 @@ cd dnd-llm-assistant
 - With Conda:
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate llama_env
 ```
 
