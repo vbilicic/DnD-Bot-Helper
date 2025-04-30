@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ### 1. Place the D&D PDF in the following directory (or change the path in main.py):
 
-- `data/ (D&D 5e - Players Handbook.pdf)
+- `data/` (D&D 5e - Players Handbook.pdf)
 
 ### 2. Place your .gguf quantized model here (or set a model URL)
 
