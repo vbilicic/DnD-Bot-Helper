@@ -1,0 +1,21 @@
+
+---
+
+### `requirements.txt`
+
+```txt
+torch
+torchvision
+torchaudio --index-url https://download.pytorch.org/whl/cu128
+pypdf
+python-dotenv
+transformers
+llama-cpp-python
+llama-index.core
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-llms-llama-cpp
+llama-index-embeddings-langchain
+sentence-transformers
+langchain-community
+huggingface_hub[hf_xet]
